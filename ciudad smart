@@ -1,0 +1,165 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width" initial-scale="1.0">
+        <title>CiudadSmart!</title>
+    <link rel="stylesheet" href="ciudadsmart.css">
+</head>
+<body>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap" rel="stylesheet">
+    <header>
+    <header class="flexbox-space-around">
+        <a href="ciudadsmart.html">
+        <div >
+            
+            <img src="Logo moderno de tecnología azul y verde.png" alt="logo de CiudadSmart" class="pepe">  
+             
+        </div>
+    </a>
+        <nav>
+        <div>
+            <ul class="list-navegacion">
+                <li><a href="www.google.com.ar">Inicio       </a></li>
+                <li><a href="#">Modelos      </a></li>
+                <li><a href="#">Precios</a></li> 
+            </ul>     
+        </div>
+        </nav>
+    </header>
+    
+    <div class="arriba">
+    <div class="will">
+            <h1>
+             Mas rara que la realidad
+            </h1>
+            <p> Desde el otro lado hasta el sillon de tu casa, todos los capitulos disponibles, 24/7 ATR </p>
+            <div class="botones">
+            <button class="boton-viciar">Viciar</button>
+            <button class="boton-vida">Conservar vida social</button>
+            <button class="boton-mas">Mas</button>
+        </div>
+            
+        </div>
+         <img src="./sepusorara.jpeg" alt="Eleven" class="once">
+        
+        </div>   
+    
+
+
+    <div class="cosode3">
+    <h2>Villanos segun temporada</h2>  
+    <h4 class="subtit">Te vuela la cabeza con cada capitulo</h4>
+
+    </div>
+<div class="div-papa">
+    <div class="seccion1">
+        <h2>Demogorgon</h2>  
+        <h4 >Dame un besito...</h4>
+        <img src="demogorgon.jpg" alt="demo" class="icono">
+       </div>
+    
+       <div class="seccion1">
+        <h2>Vecna</h2>  
+        <h4 >Ponete uno que sepamos todos</h4>
+        <img src="vecna.jpg" alt="demo" class="icono">
+       </div>
+    
+       <div class="seccion1">
+        <h2>Desollamentes</h2>  
+        <h4 >La pesadilla del podologo</h4>
+        <img src="meme.jpg" alt="demo" class="icono">
+       </div>
+    </div>
+
+    <div class="cosode4">
+        <h2>Temporadas</h2>  
+        
+    
+        </div>
+    <div class="div-papa">
+        <div class="seccion1">
+            <img src="once1.jpg" alt="demo" class="icono1">
+            <h2>Temporada 1</h2>  
+            <h4 >Escape del Laboratorio de Dexter</h4>
+            
+           </div>
+        
+           <div class="seccion1">
+            <img src="once2.jpg" alt="demo" class="icono1">
+            <h2>Temporada 2</h2>  
+            <h4 >Anarpia Punk</h4>
+            
+           </div>
+        
+           <div class="seccion1">
+            <img src="once.jpg" alt="demo" class="icono1">
+            <h2>Temporada 3</h2>  
+            <h4 >Me fui de Shopping y casi me desollan <h4>
+            
+           </div>
+
+           <div class="seccion1">
+            <img src="once4.jpg" alt="demo" class="icono1">
+            <h2>Temporada 4</h2>  
+            <h4 >Se me hizo una laguna al tararear nuestra cancion</h4>
+            
+           </div>
+        </div>
+
+        <div class="cosode4">
+            <h2>Dale un vistazo</h2>  
+            <h4 class="subtit">Spoiler alert!!</h4>
+        
+            </div>
+        <div class="div-papa">
+            <div class="seccion1">
+                <iframe src="https://www.youtube.com/embed/Wre1F5YyIlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <h2>Trailer temporada uno</h2>  
+                <h4 ></h4>
+                
+               </div>
+            
+               <div class="seccion1">
+                <iframe  src="https://www.youtube.com/embed/rkSzzmVxhAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <h2>Trailer temporada dos</h2>  
+                                
+               </div>
+            
+               <div class="seccion1">
+                <iframe src="https://www.youtube.com/embed/MoMDmyg-aKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <h2>Trailer temporada tres</h2>  
+                <h4 > <h4>
+                
+               </div>
+    
+               <div class="seccion1">
+                <iframe src="https://www.youtube.com/embed/m7ccdln9MOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <h2>Trailer temporada cuatro vol.1</h2>  
+                <h4 ></h4>
+                
+               </div>
+            </div>
+
+            <div class="carta-presentacion">
+                
+                <div class="cac">
+                <h2 class="titt">Contactanos</h2>
+                <div class="conicono">
+                <img src="ubica.png" alt="ubica" width="10%">
+                <h4 >Hawkins, Indiana, EE.UU</h4></div>
+                <div class="conicono">
+                <img src="telef.png" alt="telef" width="10%">
+                <h4 >11-0303456</h4></div>
+                <div class="conicono">
+                <img src="mail.png" alt="mail" width="10%">
+                <h4>mandameunmail@mail.com</h4></div>
+                </div>
+                <div class="mapa">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13445.916830117752!2d-95.20586582009608!3d32.593410493712724!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8649dd6abc4a1ebd%3A0xbff85fa108e2719f!2sSonic%20Drive-In!5e0!3m2!1ses-419!2sar!4v1655662649770!5m2!1ses-419!2sar"  width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" ></iframe>
+            </div> 
+            </div>
+            <footer class="footer">
+                <img src="Stranger-Things-logo.png" alt="logo" width="7%">
+            </footer>
+</body>
+</html>

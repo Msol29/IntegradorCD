@@ -1,0 +1,291 @@
+
+. {
+    display: flex;
+    opacity: 10;
+    margin: 0%;
+    padding: 0%;
+}
+	.logo {
+		margin: 0%;
+		padding: 0%;
+		text-align: center;
+		opacity: 0.5;
+			}
+
+	.logo1 {
+		border-radius: 50%;
+		width: 20%;
+	}
+
+ .logo:hover{
+ 	opacity: 80%;
+ }
+
+
+flexbox-space-around {
+	flex-direction: row;
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	
+	height: 20%;
+	width: 100%;
+}
+nav {
+  width: 30%;
+  
+
+}
+.list-navegacion {
+width: 70%;
+list-style: none; 
+display:flex;
+flex-wrap: wrap;
+flex-direction:column;
+justify-content: space-between;
+margin: auto;
+padding: 0;
+top: 1%;
+right: 2%;
+text-transform: uppercase;
+}
+
+
+
+ a{
+   color: antiquewhite;
+   text-decoration: none;
+
+ }
+ 
+ a:hover{
+    background-color: transparent;
+    color: goldenrod;
+  }
+ .container-header {
+   display: flex;
+   width: 60%;
+   margin: 0%;
+   padding:0%
+ }
+ 
+ body{
+  font-family: 'Oswald', sans-serif ;
+  background-image: url("./fondo.jpg");
+  display: flex;
+  background-size: cover;
+ }
+
+ 
+.footer1{
+
+  color: antiquewhite; 
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+
+div.gallery {
+  border-radius: 5%;
+  margin-top: 10%;
+}
+
+div.gallery:hover {
+  background-color: transparent;
+  border-radius: 5%;
+  border-style: solid;
+  border-color: hotpink;
+}
+
+div.gallery img {
+   background-color: transparent;
+   border-radius: 5%;
+   width: 100%;
+   height: 49.9%;
+}
+
+
+
+
+.responsive {
+	background-color: transparent;
+	float: left;
+	width: 24.99999%;
+	
+}
+
+.contenedor-contacto {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+	margin: auto;
+	
+}
+
+.contacto{
+  height: 400px;
+  width: 600px;
+  border: 3px ;
+	background-color: black;
+	color: white;
+	opacity: 85%;
+	border-radius: 4%;
+	text-align: center;
+  
+}
+
+.contacto:hover{
+	opacity: 90%;
+
+}
+
+.contenedor-horizontal{
+	display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap; 
+  justify-content: space-around;
+ 
+  width: 100%;
+
+}
+
+.contenedor-horizontal-footer {
+	display: flex;
+	flex-direction: row;
+	align-items: start;
+	flex-wrap: wrap;
+	
+}
+
+.contenedor-horizontal1 {
+	
+	display: flex;
+	align-items:center;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+	.contenedor-vertical {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	flex-wrap: wrap;
+	justify-content: center;
+	
+	animation: contenedor-vertical 5s infinite;
+}
+
+.logos{
+	width: 10%;
+
+}
+
+.imagen-principal{
+	margin-top: 15%;
+	left: 5%;
+}
+.footer1{
+  margin-bottom: 5%;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  margin-left: 10%;
+  align-items:start;
+
+  
+	
+}
+
+
+.contacto1 {
+	height: 400px;
+	width: 500px;
+	border: 3px;
+	background-color: black;
+	color: white;
+	opacity: 85%;
+	border-radius: 4%;
+	text-align: center;
+}
+.usu{
+	text-align:center;
+	margin-inline:auto;
+
+}
+
+.portadaa {
+	margin: auto;
+	padding: initial;
+	height: 400px;
+	width: 400px;
+	margin-top:5%;
+	border-radius: 4%;
+	flex-wrap: wrap;
+	position: relative;
+	transition: 2s;
+}
+
+.portadaa:hover{
+	transition: 2s;
+	width:50%;
+	height:50%;
+}
+
+.texto2{
+  color : white;
+  text-align:center;
+  
+}
+.correte{
+	margin-top:5%;
+}
+.button1 {
+	background-color: #4c2882;
+	border: none;
+	color: white;
+	padding: 4px 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+	.button1:hover {
+		background-color: pink;
+	}
+
+	
+
+	div .desc {
+	color: antiquewhite;
+	position:fixed;
+	text-align: center;
+}
+@media only screen and (max-width: 950px) {
+	.responsive {
+		width: 49.99999%;
+		margin: 6px 0;
+	}
+
+	div.gallery img {
+		height: 74.99999%;
+	}
+}
+
+@media only screen and (max-width: 650px) {
+	.responsive {
+		width: 100%;
+	}
+
+	div.gallery img {
+		height: 100%;
+	}
+}
+
+	
